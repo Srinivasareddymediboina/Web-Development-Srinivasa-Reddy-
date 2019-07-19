@@ -1,0 +1,16 @@
+Flask
+-------
+
+MVC-Model View Controller
+M--->Database
+V---->Html
+C---->Main File
+
+pip install flask
+
+1.Flask
+	a-->WSGI-web server gateway interface--->server
+	b-->Jinja2--->templetes
+
+
+from flask import Flask
